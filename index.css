@@ -223,3 +223,9 @@ h1 {
     right: 0;
   }
 }
+
+.testcolor {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(182, 13, 13);
+}

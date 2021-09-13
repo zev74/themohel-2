@@ -4,7 +4,7 @@
 .templateMainSectionContent {
   box-shadow: inset 0 0 0 2000px rgba(36, 36, 36, 0.644);
   position: center;
-  background: url('./images/_MG_5861.jpg');
+  background: url('../images/_MG_5861.jpg');
   background-size: cover;
   height: 50vh;
   width: 100%;

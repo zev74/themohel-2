@@ -1,0 +1,23 @@
+/* .aboutTheBrisMainSection {
+} */
+
+.templateMainSectionContent {
+  box-shadow: inset 0 0 0 2000px rgba(36, 36, 36, 0.644);
+  position: center;
+  background: url('images/_MG_5861.jpg');
+  background-size: cover;
+  height: 50vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.templateMainHeading {
+  color: rgb(236, 236, 236);
+  font-size: 60px;
+  font-family: Lora;
+  font-weight: 500;
+  border-bottom: 1.4px solid rgb(238, 238, 238);
+  padding: 0px 8% 0px 8%;
+}

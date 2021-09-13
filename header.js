@@ -7,7 +7,7 @@ class Header extends HTMLElement {
                     </a>
                 </li>
                 <li class="navListItem">
-                    <a class="navLink" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0/index.html"> About
+                    <a class="navLink" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0/aboutTheMohel.html"> About
                         The Mohel </a>
                 </li>
                 <li class="navListItem">

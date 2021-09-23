@@ -5,7 +5,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(241, 255, 50);
+  background-color: rgb(50, 53, 95);
 }
 
 .imageofmohel {
@@ -17,7 +17,7 @@
 .wordsActual {
   font-family: helvetica;
   letter-spacing: 1px;
-  font-size: 13px;
+  font-size: 14px;
   color: white;
 }
 

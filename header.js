@@ -27,17 +27,13 @@ class Header extends HTMLElement {
 
         <nav class="mobileNav">
           <h1> hi </h1>
-            <div class="container" onclick="myFunction(this)">
-                <div class="bar1"></div>
-                <div class="bar2"></div>
-                <div class="bar3"></div>
-            </div>
 
-            <script>
-              function myFunction(x) {
-                x.classList.toggle("change");
-              }
-            </script>
+          <div class="hamburger"> 
+            <div class="bar1"> </div>
+            <div class="bar2"> </div>
+            <div class="bar3"> </div>
+          </div>
+
         </nav>
 
 

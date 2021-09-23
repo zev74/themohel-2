@@ -250,19 +250,20 @@ h1 {
   }
 
   .mobileNav {
-    height: 100px;
+    height: 40px;
     width: 100%;
-    background-color: rgb(43, 9, 71);
+    background-color: rgb(50, 53, 95);
     visibility: visible;
     display: flex;
+    justify-content: space-between;
     align-items: center;
     max-height: 200px;
+    padding: 5px 10px;
   }
 
   .hamburger {
     display: inline-block;
     cursor: pointer;
-    padding: 5px;
   }
 
   .bar1,

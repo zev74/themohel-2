@@ -241,13 +241,14 @@ h1 {
   /* header */
 
   .mainNav {
-    right: 0%;
+    position: fixed;
+    left: -100%;
   }
 }
 
 .testcolor {
   height: 100px;
   width: 100%;
-  background-color: rgb(142, 39, 238);
+  background-color: rgb(17, 31, 27);
   color: rgb(182, 13,rgb(45, 213, 255);
 }

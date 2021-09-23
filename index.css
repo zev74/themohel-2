@@ -124,6 +124,10 @@ h1 {
   padding: 18px 0;
 }
 
+.mobileContentImage {
+  visibility: hidden;
+}
+
 .contentDiv {
   max-width: 650px;
 }
@@ -187,6 +191,7 @@ h1 {
 
 .mobileFooter {
   display: none;
+  max-width: 0%;
 }
 
 @media only screen and (max-width: 900px) {
@@ -208,8 +213,13 @@ h1 {
     visibility: hidden;
   }
 
+  .mobileContentImage {
+    visibility: visible;
+    width: 98%;
+  }
+
   .articleHeading {
-    font-weight: 500;
+    font-weight: 600;
     font-size: 1.5em;
   }
 

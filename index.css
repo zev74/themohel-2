@@ -7,6 +7,10 @@ h1 {
   margin: 0;
 }
 
+.mobileNav {
+  height: 0%;
+}
+
 .mainNav {
   display: flex;
   justify-content: flex-end;
@@ -243,6 +247,12 @@ h1 {
   .mainNav {
     position: fixed;
     left: -100%;
+  }
+
+  .mobileNav {
+    height: 5%;
+    width: 100%;
+    background-color: rgba(20, 20, 68, 0.342);
   }
 }
 

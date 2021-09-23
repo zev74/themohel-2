@@ -1,6 +1,8 @@
 class Header extends HTMLElement {
   connectedCallback() {
-    this.innerHTML = ` <nav class="mainNav">
+
+    
+    this.innerHTML = <div> <nav class="mainNav">
             <ul class="navLinksGroup">
                 <li class="navListItem">
                     <a class="navLink" href="https://zev74.github.io/themohel-2/index.html"> Home
@@ -21,7 +23,15 @@ class Header extends HTMLElement {
                         href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0/index.html"> Contact </a>
                 </li>
             </ul>
-        </nav> `
+        </nav> 
+
+        <nav class="mobileNav">
+            
+        </nav>
+
+
+        </div> 
+        
     }
 }
 

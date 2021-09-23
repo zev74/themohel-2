@@ -262,11 +262,11 @@ h1 {
   .hamburger {
     display: inline-block;
     cursor: pointer;
-    padding: 5px
+    padding: 5px;
   }
   
   .bar1, .bar2, .bar3 {
-    width: 25px;
+    width: 20px;
     height: 3px;
     background-color: rgb(22, 22, 22);
     margin: 5px 0;

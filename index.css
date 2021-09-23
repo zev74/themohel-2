@@ -258,12 +258,13 @@ h1 {
     justify-content: space-between;
     align-items: center;
     max-height: 200px;
-    padding: 5px 50px;
+    padding: 5px 0px;
   }
 
   .hamburger {
     display: inline-block;
     cursor: pointer;
+    padding: 0px 20px 0px 0px;
   }
 
   .bar1,

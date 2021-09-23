@@ -255,6 +255,8 @@ h1 {
     width: 100%;
     background-color: rgb(143, 95, 182);
     visibility: visible;
+    display: flex;
+    align-items: center;
   }
 
   .hamburger {

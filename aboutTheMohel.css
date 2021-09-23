@@ -5,7 +5,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(50, 53, 95);
+  background-color: rgb(241, 255, 50);
 }
 
 .imageofmohel {
@@ -43,7 +43,7 @@
 }
 
 .innerAboutTheMohel {
-  max-width: 900px;
+  max-width: 1200px;
 }
 
 @media only screen and (max-width: 1100px) {

@@ -246,7 +246,7 @@ h1 {
 
   .mainNav {
     position: fixed;
-    left: -100%;
+    left: -150%;
   }
 
   .mobileNav {

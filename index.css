@@ -9,6 +9,7 @@ h1 {
 
 .mobileNav {
   height: 0%;
+  visibility: hidden;
 }
 
 .mainNav {

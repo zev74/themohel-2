@@ -204,7 +204,9 @@ h1 {
     flex-direction: column-reverse;
   }
 
-
+  .contentImage {
+    visibility: hidden;
+  }
 
   .articleHeading {
     font-weight: 500;

@@ -266,8 +266,7 @@ h1 {
   }
 
   .hamburger {
-    display: flex;
-    flex-direction: column;
+    display: none;
     cursor: pointer;
   }
 

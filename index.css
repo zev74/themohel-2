@@ -253,7 +253,7 @@ h1 {
   .mobileNav {
     height: 100px;
     width: 100%;
-    background-color: rgb(105, 102, 240);
+    background-color: rgb(143, 95, 182);
     visibility: visible;
   }
 
@@ -266,7 +266,7 @@ h1 {
   .bar1, .bar2, .bar3 {
     width: 25px;
     height: 3px;
-    background-color: rgb(126, 126, 118);
+    background-color: rgb(117, 117, 44);
     margin: 5px 0;
     transition: 0.4s;
   }

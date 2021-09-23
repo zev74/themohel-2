@@ -86,4 +86,9 @@
     font-size: 48px;
     font-weight: 400;
   }
+
+  .innerAboutTheMohel {
+    display: flex;
+    flex-direction: column;
+  }
 }

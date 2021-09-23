@@ -254,12 +254,13 @@ h1 {
     height: 5%;
     width: 100%;
     background-color: rgba(20, 20, 68, 0.342);
+    visibility: visible;
   }
 }
 
 .testcolor {
   height: 100px;
   width: 100%;
-  background-color: rgb(33, 160, 124);
+  background-color: rgb(160, 33, 33);
   color: rgb(182, 13,rgb(45, 213, 255);
 }

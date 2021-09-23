@@ -111,10 +111,17 @@ h1 {
   grid-column-gap: 4em; */
 }
 
-.contentImage {
+/* .contentImage {
   border-radius: 9px;
   max-width: 500px;
   max-height: 300px;
+} */
+
+.contentImage {
+  border-radius: 9px;
+  max-width: 100%;
+  max-height: 95%;
+  padding: 18px 0;
 }
 
 .contentDiv {
@@ -197,12 +204,7 @@ h1 {
     flex-direction: column-reverse;
   }
 
-  .contentImage {
-    border-radius: 9px;
-    max-width: 100%;
-    max-height: 95%;
-    padding: 18px 0;
-  }
+
 
   .articleHeading {
     font-weight: 500;

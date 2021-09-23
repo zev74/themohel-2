@@ -267,6 +267,8 @@ h1 {
 
   .hamburger {
     display: none;
+    -webkit-appearance: none;
+    visibility: hidden;
     cursor: pointer;
   }
 

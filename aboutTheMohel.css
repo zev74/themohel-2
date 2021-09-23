@@ -9,7 +9,6 @@
 }
 
 .imageofmohel {
-  padding: 10px 70px;
   margin: 0px 0px 0px 0px;
   width: 350px;
   border-radius: 12px;
@@ -20,7 +19,6 @@
   letter-spacing: 1px;
   font-size: 13px;
   color: white;
-  padding: 5px 200px 5px 20px;
 }
 
 .templateMainSectionContent {
@@ -73,8 +71,10 @@
   }
 
   .wordsActual {
+    width: 90%;
     font-size: 14px;
     font-weight: 100;
+    padding: 40px 20px;
   }
 
   .templateMainHeading {

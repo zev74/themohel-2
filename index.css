@@ -260,7 +260,7 @@ h1 {
     visibility: visible;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: space-between;
     max-height: 200px;
     padding: 5px 0px;
   }

@@ -266,10 +266,10 @@ h1 {
   }
   
   .bar1, .bar2, .bar3 {
-    width: 35px;
-    height: 5px;
-    background-color: #333;
-    margin: 6px 0;
+    width: 25px;
+    height: 3px;
+    background-color: rgb(37, 37, 37);
+    margin: 5px 0;
     transition: 0.4s;
   }
   

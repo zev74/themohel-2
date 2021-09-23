@@ -26,7 +26,7 @@ class Header extends HTMLElement {
         </nav> 
 
         <nav class="mobileNav">
-
+          <h1> hi </h1>
         </nav>
 
 

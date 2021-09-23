@@ -28,6 +28,9 @@ class Header extends HTMLElement {
         <nav class="mobileNav">
           <h1> hi </h1>
 
+          <h1> hi </h1>
+
+
           <div> 
             <label>
                 <input type="checkbox" class="hamburger"> 

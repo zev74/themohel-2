@@ -265,7 +265,7 @@ h1 {
   .mobileNav {
     height: 40px;
     width: 100%;
-    background-color: rgb(133, 141, 40);
+    background-color: rgb(141, 40, 40);
     visibility: visible;
     display: flex;
     justify-content: space-between;

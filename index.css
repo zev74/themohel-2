@@ -251,8 +251,6 @@ h1 {
 
   .mainNav {
     display: none;
-    display: flex;
-    flex-direction: column;
     transition: all 2s ease;
     left: 0;
   }

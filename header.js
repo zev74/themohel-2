@@ -50,7 +50,7 @@ class Header extends HTMLElement {
 const hamburgerCheckbox = document.getElementById('hamburgerCheckbox')
 const mainNav = document.getElementById('mainNav')
 
-const toggleMenu() {
+const toggleMenu = () => {
     hamburgerCheckbox.checked ? mainNav.style.display = "block" :
     mainNav.style.display = "none"
 }

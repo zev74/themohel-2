@@ -266,12 +266,12 @@ h1 {
     padding: 5px 0px;
   }
 
-  .hamburgerCheckbox {
-    /* display: none;
+  /* .hamburgerCheckbox {
+    display: none;
     -webkit-appearance: none;
-    visibility: hidden; */
+    visibility: hidden;
     cursor: pointer;
-  }
+  } */
 
   .hamburgerCheckbox:checked ~ .mainNav {
     left: 0%;

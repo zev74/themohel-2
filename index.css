@@ -273,6 +273,10 @@ h1 {
     cursor: pointer;
   }
 
+  .hamburgerCheckbox:checked ~ .mainNav {
+    left: 0%;
+  }
+
   .hamburger {
     padding-right: 2%;
   }

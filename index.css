@@ -274,7 +274,7 @@ h1 {
     cursor: pointer;
   } */
 
-  .hamburgerCheckbox:checked ~ .mainNav {
+  label input:checked ~ .mainNav {
     left: 0%;
     display: flex;
     justify-content: flex-end;

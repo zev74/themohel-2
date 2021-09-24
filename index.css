@@ -250,8 +250,7 @@ h1 {
   /* header */
 
   .mainNav {
-    position: fixed;
-    left: -150%;
+    display: none;
   }
 
   .mobileNav {
@@ -274,20 +273,20 @@ h1 {
     cursor: pointer;
   } */
 
-  label input:checked ~ .mainNav {
+  /* label input:checked ~ .mainNav {
     left: 0%;
     display: flex;
     justify-content: flex-end;
     background-color: #ffffff;
     visibility: visible;
-    /* background-color: #325c6c; */
+    background-color: #325c6c;
     padding: 2px 35px 2px 0px;
     transform: scale(0.97);
   }
 
   .hamburgerCheckbox:checked ~ .testcolor {
     background-color: rgb(52, 52, 236);
-  }
+  } */
 
   .hamburger {
     padding-right: 2%;

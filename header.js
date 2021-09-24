@@ -40,23 +40,21 @@ class Header extends HTMLElement {
 
         </nav>
 
-          <script>
-              const hamburgerCheckbox = document.getElementById('hamburgerCheckbox')
-              const mainNav = document.getElementById('mainNav')
-
-              const toggleMenu() {
-                  hamburgerCheckbox.checked ? mainNav.style.display = "block" :
-                  mainNav.style.display = "none"
-              }
-
-              
-          </script>
 
 
         </div> `
         
     }
 }
+
+const hamburgerCheckbox = document.getElementById('hamburgerCheckbox')
+const mainNav = document.getElementById('mainNav')
+
+const toggleMenu() {
+    hamburgerCheckbox.checked ? mainNav.style.display = "block" :
+    mainNav.style.display = "none"
+}
+
 
 
 customElements.define('the-header', Header)

@@ -218,6 +218,7 @@ h1 {
 
   .contentImage {
     visibility: hidden;
+    max-height: 0px;
   }
 
   .mobileContentImage {

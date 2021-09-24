@@ -253,8 +253,13 @@ h1 {
     display: none;
     display: flex;
     flex-direction: column;
-    width: 80%;
-    height: 90%;
+    width: 80vh;
+    height: 90vh;
+  }
+
+  .navLinksGroup {
+    display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
   }
@@ -262,7 +267,7 @@ h1 {
   .mobileNav {
     height: 40px;
     width: 100%;
-    background-color: rgb(163, 147, 231);
+    background-color: rgb(31, 27, 53);
     visibility: visible;
     display: flex;
     justify-content: space-between;

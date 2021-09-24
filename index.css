@@ -266,11 +266,15 @@ h1 {
     padding: 5px 0px;
   }
 
-  .hamburger {
+  .hamburgerCheckbox {
     display: none;
     -webkit-appearance: none;
     visibility: hidden;
     cursor: pointer;
+  }
+
+  .hamburger {
+    padding-right: 65px;
   }
 
   .bar1,
@@ -281,7 +285,6 @@ h1 {
     background-color: rgb(50, 53, 95);
     margin: 3px 0;
     transition: 0.4s;
-    padding-right: 60px;
   }
 }
 

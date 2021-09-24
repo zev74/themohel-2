@@ -267,9 +267,9 @@ h1 {
   }
 
   .hamburgerCheckbox {
-    display: none;
+    /* display: none;
     -webkit-appearance: none;
-    visibility: hidden;
+    visibility: hidden; */
     cursor: pointer;
   }
 

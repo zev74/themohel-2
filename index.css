@@ -262,7 +262,7 @@ h1 {
   .mobileNav {
     height: 40px;
     width: 100%;
-    background-color: rgb(236, 236, 236);
+    background-color: rgb(163, 147, 231);
     visibility: visible;
     display: flex;
     justify-content: space-between;
@@ -273,8 +273,8 @@ h1 {
   }
 
   /* .hamburgerCheckbox {
-    display: none;
-    -webkit-appearance: none;
+    display: none; 
+     -webkit-appearance: none;
     visibility: hidden;
     cursor: pointer;
   } */

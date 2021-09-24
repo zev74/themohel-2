@@ -266,7 +266,7 @@ h1 {
   .mobileNav {
     height: 40px;
     width: 100%;
-    background-color: rgb(157, 182, 69);
+    background-color: rgb(255, 255, 255);
     visibility: visible;
     display: flex;
     justify-content: space-between;
@@ -276,12 +276,12 @@ h1 {
     padding: 5px 0px;
   }
 
-  /* .hamburgerCheckbox {
-    display: none; 
-     -webkit-appearance: none;
-    visibility: hidden;
+  .hamburgerCheckbox {
+    display: none;
+    /* -webkit-appearance: none;
+    visibility: hidden; */
     cursor: pointer;
-  } */
+  }
 
   /* label input:checked ~ .mainNav {
     left: 0%;

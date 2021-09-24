@@ -209,6 +209,7 @@ h1 {
     align-items: center;
     padding: 0px 1px 0px 1px;
     margin: 0px 1%;
+    max-width: 1800px;
   }
 
   .contentSectionRow:nth-child(even) {

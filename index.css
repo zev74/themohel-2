@@ -275,6 +275,11 @@ h1 {
 
   .hamburgerCheckbox:checked ~ .mainNav {
     left: 0%;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #ffffff;
+    /* background-color: #325c6c; */
+    padding: 2px 35px 2px 0px;
   }
 
   .hamburger {

@@ -51,9 +51,6 @@ const hamburgerCheckbox = document.getElementById('hamburgerCheckbox')
 const hamburger = document.getElementById('hamburger')
 const mainNav = document.getElementById('mainNav')
 
-
-onClick="toggleMenu"
-
 function toggleMenu() {
     hamburgerCheckbox.checked ? mainNav.style.display = "block" :
     mainNav.style.display = "none"

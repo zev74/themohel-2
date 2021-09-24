@@ -251,6 +251,12 @@ h1 {
 
   .mainNav {
     display: none;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 90%;
+    align-items: center;
+    justify-content: center;
   }
 
   .mobileNav {

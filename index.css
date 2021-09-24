@@ -287,7 +287,6 @@ h1 {
 
   .hamburgerCheckbox:checked ~ .testcolor {
     background-color: rgb(52, 52, 236);
-    transform: scale(0.97);
   }
 
   .hamburger {

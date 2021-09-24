@@ -284,6 +284,10 @@ h1 {
     padding: 2px 35px 2px 0px;
   }
 
+  .hamburgerCheckbox:checked ~ .testcolor {
+    background-color: rgb(52, 52, 236);
+  }
+
   .hamburger {
     padding-right: 2%;
     cursor: pointer;
@@ -297,6 +301,7 @@ h1 {
     background-color: rgb(50, 53, 95);
     margin: 3px 0;
     transition: 0.4s;
+    cursor: pointer;
   }
 }
 

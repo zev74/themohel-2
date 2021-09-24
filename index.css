@@ -299,7 +299,7 @@ h1 {
     width: 24px;
     height: 3px;
     /* background-color: rgb(50, 53, 95); */
-    background-color: blueviolet;
+    background-color: rgb(252, 107, 96);
     margin: 3px 0;
     transition: 0.4s;
     cursor: pointer;

@@ -28,7 +28,7 @@ class Header extends HTMLElement {
         <nav class="mobileNav">
           <h1> hi </h1>
 
-          <div id="hamburger" class="hamburger" onClick="toggleMenu"> 
+          <div id="hamburger" class="hamburger" > 
             <label>
                 <input type="checkbox" id="hamburgerCheckbox" class="hamburgerCheckbox"> 
                     <div class="bar1"> </div>
@@ -48,12 +48,18 @@ class Header extends HTMLElement {
 }
 
 const hamburgerCheckbox = document.getElementById('hamburgerCheckbox')
+const hamburger = document.getElementById('hamburger')
 const mainNav = document.getElementById('mainNav')
 
-const toggleMenu = () => {
+
+onClick="toggleMenu"
+
+function toggleMenu() {
     hamburgerCheckbox.checked ? mainNav.style.display = "block" :
     mainNav.style.display = "none"
 }
+
+hamburger.addEventListener('click', toggleMenu)
 
 
 

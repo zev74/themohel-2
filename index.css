@@ -273,10 +273,10 @@ h1 {
   }
 
   .navLink {
-    padding: 5px 0px 5px 0px;
-    font-size: 18px;
-    font-weight: 600;
-    color: black;
+    padding: 10px 0px 10px 0px;
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(31, 31, 31);
   }
 
   .hamburgerCheckbox {

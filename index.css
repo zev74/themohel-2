@@ -295,7 +295,8 @@ h1 {
   } */
 
   .hamburger {
-    padding-right: 22%;
+    padding-right: 5%;
+    padding-left: 5%;
     cursor: pointer;
   }
 

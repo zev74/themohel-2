@@ -27,4 +27,8 @@
     font-size: 48px;
     font-weight: 400;
   }
+
+  .contentDiv {
+    max-width: 96%;
+  }
 }

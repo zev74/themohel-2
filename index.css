@@ -269,7 +269,7 @@ h1 {
     align-items: center;
     max-height: 200px;
     max-width: 1000px;
-    padding: 5px 20px;
+    padding: 5px 0px;
   }
 
   .hamburgerCheckbox {
@@ -295,7 +295,7 @@ h1 {
   } */
 
   .hamburger {
-    padding-right: 2%;
+    padding-right: 22%;
     cursor: pointer;
   }
 

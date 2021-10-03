@@ -262,14 +262,14 @@ h1 {
   .mobileNav {
     height: 40px;
     width: 100%;
-    background-color: rgb(27, 51, 158);
+    background-color: rgb(255, 255, 255);
     visibility: visible;
     display: flex;
     justify-content: space-between;
     align-items: center;
     max-height: 200px;
     max-width: 1000px;
-    padding: 5px 0px;
+    padding: 5px 20px;
   }
 
   .hamburgerCheckbox {

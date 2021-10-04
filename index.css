@@ -86,7 +86,7 @@ h1 {
 }
 
 .mainHeading {
-  color: rgb(36, 36, 36);
+  color: rgb(245, 245, 245);
   font-size: 60px;
   font-family: Lora;
   font-weight: 500;
@@ -95,7 +95,7 @@ h1 {
 }
 
 .tagLine {
-  color: rgb(36, 36, 36);
+  color: rgb(245, 245, 245);
   font-size: 22px;
   font-family: Lora;
   font-weight: 400;

@@ -22,6 +22,10 @@
   padding: 0px 8% 0px 8%;
 }
 
+.contentDiv {
+  max-width: 48%;
+}
+
 @media only screen and (max-width: 900px) {
   .templateMainHeading {
     font-size: 48px;

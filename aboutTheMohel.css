@@ -68,7 +68,7 @@
   .imageofmohel {
     padding: 60px 20px 20px 20px;
     margin: 0px 0px 0px 0px;
-    width: 100%;
+    max-width: 100%;
     border-radius: 12px;
   }
 

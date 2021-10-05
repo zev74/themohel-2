@@ -95,7 +95,7 @@ h1 {
 }
 
 .tagLine {
-  color: rgb(245, 245, 245);
+  color: rgb(131, 241, 41);
   font-size: 22px;
   font-family: Lora;
   font-weight: 400;
@@ -313,7 +313,7 @@ h1 {
     width: 22px;
     height: 3px;
     /* background-color: rgb(50, 53, 95); */
-    background-color: rgb(163, 173, 255);
+    background-color: rgb(9, 16, 71);
     margin: 3px 0;
     transition: 0.4s;
     cursor: pointer;

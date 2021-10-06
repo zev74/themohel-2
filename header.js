@@ -24,25 +24,25 @@ class Header extends HTMLElement {
   <nav id="mainNav" class="mainNav">
 
 <div class="mainHeaderButtonDiv">
-   <a class="mainHeaderButton" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0//contact.html">Get in touch! </a> 
+   <a class="mainHeaderButton" href="https://zev74.github.io/themohel-2/contact.html">Get in touch! </a> 
 </div>
 
  
             <ul class="navLinksGroup">
                 <li class="navListItem">
-                    <a class="navLink" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0/index.html"> Home
+                    <a class="navLink" href="https://zev74.github.io/themohel-2/index.html"> Home
                     </a>
                 </li>
                 <li class="navListItem">
-                    <a class="navLink" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0//aboutTheMohel.html"> About
+                    <a class="navLink" href="https://zev74.github.io/themohel-2/aboutTheMohel.html"> About
                         The Mohel </a>
                 </li>
                 <li class="navListItem">
-                    <a class="navLink" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0//aboutTheBris.html"> About
+                    <a class="navLink" href="https://zev74.github.io/themohel-2/aboutTheBris.html"> About
                         The Bris </a>
                 </li>
                 <li class="navListItem"> <a class="navLink"
-                        href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0//contact.html"> Contact </a>
+                        href="https://zev74.github.io/themohel-2/contact.html"> Contact </a>
                 </li>
             </ul>
             

@@ -121,7 +121,7 @@ h1 {
   font-family: Lora;
   font-weight: 500;
   border-bottom: 1.4px solid rgb(245, 245, 245);
-  padding: 0px 8% 0px 8%;
+  padding: 0px 8% 8px 8%;
 }
 
 .tagLine {
@@ -251,7 +251,7 @@ h1 {
   .contentSectionRow {
     flex-direction: column;
     align-items: center;
-    padding: 0px 1px 0px 1px;
+    padding: 0px 1px 8px 1px;
     width: 100%;
   }
 

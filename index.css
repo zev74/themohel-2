@@ -262,16 +262,16 @@ h1 {
   .mobileMainHeaderButton {
     color: #184d64;
     background-color: rgb(255, 255, 255);
-    border: 2px solid #184d64;
+    border: 1.5px solid #184d64;
     padding: 9px 21px;
     margin: 10 20px;
     border-radius: 8px;
     font-family: helvetica;
-    font-weight: 400;
+    font-weight: 500;
     text-decoration: none;
     box-shadow: none;
     transition: .4s;
-    font-size: 12px;
+    font-size: 13px;
   }
 
   .mainHeaderButton:hover {

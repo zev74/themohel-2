@@ -37,7 +37,7 @@ class Header extends HTMLElement {
                         href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0/index.html"> Testimonails </a>
                 </li>
                 <li class="navListItem"> <a class="navLink"
-                        href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0/index.html"> Contact </a>
+                        href="https://zev74.github.io/themohel-2/contact.html"> Contact </a>
                 </li>
             </ul>
         </nav> 

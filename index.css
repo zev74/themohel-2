@@ -129,7 +129,7 @@ h1 {
 }
 
 .contentSection {
-  background-color: rgb(247, 247, 247);
+  background-color: rgb(255, 255, 255);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -256,8 +256,32 @@ h1 {
     width: 98%;
   }
 
-  .mainHeaderButton {
+  .mobileMainHeaderButton {
+    color: rgb(255, 255, 255);
+    background-color: #184d64;
+    padding: 10px 22px;
+    margin: 5px;
+    border-radius: 16px;
+    font-family: helvetica;
+    font-weight: 200;
+    text-decoration: none;
+    box-shadow: none;
+    transition: .4s;
     font-size: 12px;
+  }
+
+  .mobileMainHeaderButtonDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+  }
+
+  .mainHeaderButtonDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
   }
 
   .articleHeading {

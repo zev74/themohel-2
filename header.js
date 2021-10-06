@@ -5,8 +5,8 @@ class Header extends HTMLElement {
     this.innerHTML = ` <div> 
     
     <nav class="mobileNav">
-    <div class="mainHeaderButtonDiv">
-      <a class="mainHeaderButton" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0//contact.html">Get in touch! </a> 
+    <div class="mobileMainHeaderButtonDiv">
+      <a class="mobileMainHeaderButton" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0//contact.html">Get in touch! </a> 
    </div>
 
     <div id="hamburger" class="hamburger" > 
@@ -40,9 +40,6 @@ class Header extends HTMLElement {
                 <li class="navListItem">
                     <a class="navLink" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0//aboutTheBris.html"> About
                         The Bris </a>
-                </li>
-                <li class="navListItem"> <a class="navLink"
-                        href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0//index.html"> Testimonails </a>
                 </li>
                 <li class="navListItem"> <a class="navLink"
                         href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0//contact.html"> Contact </a>

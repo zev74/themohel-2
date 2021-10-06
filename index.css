@@ -364,7 +364,7 @@ h1 {
   }
 
   .mainSection {
-    position: right;
+    background-position: right;
   }
 
   /* label input:checked ~ .mainNav {

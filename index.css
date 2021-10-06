@@ -259,11 +259,11 @@ h1 {
   .mobileMainHeaderButton {
     color: rgb(255, 255, 255);
     background-color: #184d64;
-    padding: 10px 22px;
-    margin: 5px;
-    border-radius: 16px;
+    padding: 8px 20px;
+    margin: 15px;
+    border-radius: 8px;
     font-family: helvetica;
-    font-weight: 200;
+    font-weight: 400;
     text-decoration: none;
     box-shadow: none;
     transition: .4s;

@@ -10,7 +10,7 @@ h1 {
 .mobileNav {
   max-height: 0px;
   max-width: 0px;
-  visibility: hidden;
+  display: none;
 }
 
 .mainNav {
@@ -263,7 +263,7 @@ h1 {
     height: 40px;
     width: 100%;
     background-color: rgb(255, 255, 255);
-    visibility: visible;
+    display: block;
     display: flex;
     justify-content: space-between;
     align-items: center;

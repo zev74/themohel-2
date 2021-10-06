@@ -14,6 +14,7 @@ h1 {
 }
 
 .mainNav {
+  display: block;
   display: flex;
   justify-content: flex-end;
   background-color: #ffffff;

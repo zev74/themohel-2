@@ -131,6 +131,10 @@ h1 {
   padding: 18px 0;
 }
 
+.contentWords {
+  padding: 18px 0;
+}
+
 .mobileContentImage {
   display: none;
 }

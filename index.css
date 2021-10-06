@@ -23,8 +23,9 @@ h1 {
 }
 
 .mainHeaderButton {
-  color: rgb(255, 255, 255);
-  background-color: #184d64;
+  color: #184d64;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid #184d64;
   padding: 10px 22px;
   margin: 5px;
   border-radius: 16px;
@@ -37,7 +38,9 @@ h1 {
 }
 
 .mainHeaderButton:hover {
-  background-color: #546c7e;
+  background-color: #184d64;
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
   transition: .4s;
 }
 
@@ -257,8 +260,9 @@ h1 {
   }
 
   .mobileMainHeaderButton {
-    color: rgb(255, 255, 255);
-    background-color: #184d64;
+    color: #184d64;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #184d64;
     padding: 8px 20px;
     margin: 15px;
     border-radius: 8px;
@@ -268,6 +272,13 @@ h1 {
     box-shadow: none;
     transition: .4s;
     font-size: 12px;
+  }
+
+  .mainHeaderButton:hover {
+    background-color: #184d64;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    transition: .4s;
   }
 
   .mobileMainHeaderButtonDiv {

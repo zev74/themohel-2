@@ -25,12 +25,12 @@ h1 {
 .mainHeaderButton {
   color: #184d64;
   background-color: rgb(255, 255, 255);
-  border: 1px solid #184d64;
+  border: 2px solid #184d64;
   padding: 10px 22px;
   margin: 5px;
   border-radius: 16px;
   font-family: helvetica;
-  font-weight: 200;
+  font-weight: 400;
   font-size: 13px;
   text-decoration: none;
   box-shadow: none;
@@ -262,7 +262,7 @@ h1 {
   .mobileMainHeaderButton {
     color: #184d64;
     background-color: rgb(255, 255, 255);
-    border: 1px solid #184d64;
+    border: 2px solid #184d64;
     padding: 9px 21px;
     margin: 10 20px;
     border-radius: 8px;

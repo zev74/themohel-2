@@ -1,4 +1,4 @@
-.contactInfo {
+.contactInfoArea {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -25,6 +25,6 @@
   padding: 0px 8% 0px 8%;
 }
 
-.contactInfoType {
+.contactInfoAreaType {
   padding-right: 8px;
 }

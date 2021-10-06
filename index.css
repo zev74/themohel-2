@@ -51,6 +51,10 @@ h1 {
   margin-left: 20px;
 }
 
+.mainButtonsDiv {
+  margin-top: 20px;
+}
+
 .navLinksGroup {
   display: flex;
 }
@@ -245,7 +249,7 @@ h1 {
     font-family: Lora;
     font-weight: 400;
     border-bottom: 1.4px solid rgb(245, 245, 245);
-    padding: 0px 0% 0px 0%;
+    padding: 0px 1% 0px 1%;
   }
 
   .contentSectionRow {

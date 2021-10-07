@@ -21,7 +21,7 @@ class Header extends HTMLElement {
 
   </nav>
   
-  <nav id="mainNav" class="mainNav">
+  <nav id="mainNav" class="mainNav mainNavMoClosed">
 
 <div class="mainHeaderButtonDiv">
    <a class="mainHeaderButton"  href="https://zev74.github.io/themohel-2/contact.html">Get in touch! </a> 

@@ -22,6 +22,24 @@ h1 {
   padding: 2px 35px 2px 0px;
 }
 
+.mainNavMoClosed {
+  display: block;
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  /* background-color: #325c6c; */
+  padding: 2px 35px 2px 0px;
+}
+
+.mainNavMoOpen {
+  display: block;
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  /* background-color: #325c6c; */
+  padding: 2px 35px 2px 0px;
+}
+
 .mainHeaderButton {
   color: #184d64;
   background-color: rgb(255, 255, 255);
@@ -327,7 +345,13 @@ h1 {
 
   /* header */
 
-  .mainNav {
+  .mainNavMoOpen {
+    display: block;
+    transition: all 2s ease-in-out;
+    z-index: 99;
+  }
+
+  .mainNavMoClosed {
     display: none;
     transition: all 2s ease-in-out;
     z-index: 99;

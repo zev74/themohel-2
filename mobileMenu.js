@@ -3,11 +3,11 @@
 
 const hamburgerCheckbox = document.getElementById('hamburgerCheckbox')
 const hamburger = document.getElementById('hamburger')
-const mainNav = document.querySelector('.mainNav')
+const mainNav = document.querySelector('#mainNav')
 
 function toggleMenu() {
-    hamburgerCheckbox.checked ? mainNav.style.display = "block" :
-    mainNav.style.display = "none"
+    hamburgerCheckbox.checked ? mainNav.className = "mainNavMoOpen" :
+    mainNav.className = "mainNavMoClosed"
 }
 
 const menuDisplayBlock = () => {

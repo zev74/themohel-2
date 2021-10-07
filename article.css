@@ -44,12 +44,12 @@
 @media only screen and (max-width: 900px) {
   .articleIndividualDiv {
     max-width: 92%;
-    padding: 10px;
+    padding: 60px 10px;
   }
 
   .articleIndividualDiv:hover {
     max-width: 94%;
-    padding: 10px;
+    padding: 60px 10px;
   }
 
   .articleIndividualHeading {

@@ -7,6 +7,32 @@ h1 {
   margin: 0;
 }
 
+/* footer */
+
+.footerWrapper {
+  background-color: rgb(19, 19, 19);
+  display: flex;
+  align-items: center;
+  padding: 10px 0px 10px 3%;
+}
+
+.footerCreatedBy {
+  color: rgb(236, 236, 236);
+  font-family: Tahoma;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.companyLink {
+  text-decoration: none;
+  color: rgb(197, 231, 255);
+}
+
+.companyLink:hover {
+  color: rgb(154, 213, 255);
+}
+
+/* footer end */
 .mobileNav {
   max-height: 0px;
   max-width: 0px;
@@ -153,6 +179,10 @@ h1 {
   font-size: 22px;
   font-family: Lora;
   font-weight: 400;
+}
+
+.cleanLink {
+  text-decoration: none;
 }
 
 .contentSection {

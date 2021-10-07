@@ -1,0 +1,5 @@
+.footerWrapper {
+  background-color: rgb(19, 19, 19);
+  display: flex;
+  padding: 5% 0px 5% 5%;
+}

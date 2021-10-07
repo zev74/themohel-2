@@ -49,6 +49,11 @@
   margin: 0px;
 }
 
+.contactInfoLink {
+  text-decoration: none;
+  color: black;
+}
+
 .flexContactInfo {
   display: flex;
   align-items: center;

@@ -22,6 +22,7 @@ h1 {
   padding: 2px 35px 2px 0px;
 }
 
+/* in order that menu shouldnt brake there are set styles for when mobile sets to display none */
 .mainNavMoClosed {
   display: block;
   display: flex;

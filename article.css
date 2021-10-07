@@ -43,6 +43,10 @@
 
 @media only screen and (max-width: 900px) {
   .articleIndividualDiv {
-    max-width: 90%;
+    max-width: 92%;
+  }
+
+  .articleIndividualDiv:hover {
+    max-width: 94%;
   }
 }

@@ -20,6 +20,7 @@ h1 {
   background-color: #ffffff;
   /* background-color: #325c6c; */
   padding: 2px 35px 2px 0px;
+  box-shadow: 4px 5px 4px -3px rgba(26, 26, 145, 0.2);
 }
 
 /* in order that menu shouldnt brake there are set styles for when mobile sets to display none */
@@ -327,7 +328,7 @@ h1 {
 
   .articleHeading {
     font-weight: 600;
-    font-size: 1.5em;
+    font-size: 1.2em;
   }
 
   .mobileFooter {

@@ -1,5 +1,5 @@
 .articleIndividualDiv {
-  max-width: 550px;
+  max-width: 600px;
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -11,7 +11,6 @@
 
 .articleIndividualDiv:hover {
   box-shadow: rgba(26, 26, 145, 0.2) 0px 7px 29px 0px;
-  max-width: 650px;
   transition-delay: 100ms;
   transition-duration: 900ms;
 }
@@ -42,13 +41,13 @@
 
 @media only screen and (max-width: 900px) {
   .articleIndividualDiv {
-    max-width: 92%;
+    max-width: 98%;
     padding: 60px 10px;
   }
 
   .articleIndividualDiv:hover {
-    max-width: 94%;
-    padding: 60px 5px;
+    max-width: 98%;
+    padding: 60px 10px;
   }
 
   .articleIndividualHeading {

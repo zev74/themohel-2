@@ -11,10 +11,9 @@ function toggleMenu() {
 }
 
 function menuDisplayBlock() {
-
   if(window.innerWidth > 900) {
     mainNav.style.display = "flex" 
-    console.log('flex')
+    console.log(window.innerWidth)
   }
 }
 

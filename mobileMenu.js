@@ -10,8 +10,9 @@ function toggleMenu() {
     mainNav.style.display = "none"
 }
 
-function menuDisplayBlock(e) {
-  console.log(e)
+function menuDisplayBlock() {
+  console.log(window.innerWidth)
 }
 hamburger.addEventListener('click', toggleMenu)
 document.body.addEventListener('resize', menuDisplayBlock(e))
+

@@ -53,12 +53,12 @@
   .articleIndividualDiv {
     margin: 5px;
     max-width: 98%;
-    padding: 20px 5%;
+    padding: 26px 5% 52px 5%;
   }
 
   .articleIndividualDiv:hover {
     max-width: 98%;
-    padding: 20px 5%;
+    padding: 26px 5% 52px 5%;
   }
 
   .articleIndividualHeading {

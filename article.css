@@ -41,6 +41,7 @@
 
 @media only screen and (max-width: 900px) {
   .articleIndividualDiv {
+    margin: 0px;
     max-width: 98%;
     padding: 60px 10px;
   }

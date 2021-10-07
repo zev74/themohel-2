@@ -11,11 +11,13 @@ function toggleMenu() {
 }
 
 function menuDisplayBlock() {
+
   if(window.innerWidth > 900) {
-    mainNav.style.display = "block" 
-    console.log('block')
+    mainNav.style.display = "flex" 
+    console.log('flex')
   }
 }
+
 hamburger.addEventListener('click', toggleMenu)
 document.body.addEventListener('resize', menuDisplayBlock())
 

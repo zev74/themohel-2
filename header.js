@@ -6,7 +6,7 @@ class Header extends HTMLElement {
     
     <nav class="mobileNav">
     <div class="mobileMainHeaderButtonDiv">
-      <a class="mobileMainHeaderButton" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0//contact.html">Get in touch! </a> 
+      <a class="mobileMainHeaderButton" href="file:///C:/Users/zevsh/Documents/projects/themohel-2.0/contact.html">Get in touch! </a> 
    </div>
 
     <div id="hamburger" class="hamburger" > 
@@ -24,7 +24,7 @@ class Header extends HTMLElement {
   <nav id="mainNav" class="mainNav">
 
 <div class="mainHeaderButtonDiv">
-   <a class="mainHeaderButton"   href="https://zev74.github.io/themohel-2/contact.html">Get in touch! </a> 
+   <a class="mainHeaderButton"  href="https://zev74.github.io/themohel-2/contact.html">Get in touch! </a> 
 </div>
 
  

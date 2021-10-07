@@ -16,5 +16,5 @@ function menuDisplayBlock() {
   }
 }
 hamburger.addEventListener('click', toggleMenu)
-document.body.addEventListener('resize', menuDisplayBlock(e))
+document.body.addEventListener('resize', menuDisplayBlock())
 

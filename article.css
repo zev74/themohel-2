@@ -20,6 +20,12 @@
   font-size: 28px;
 }
 
+.articleIndividualMidHeader {
+  padding: 15px 0px;
+  font-size: 23px;
+  font-weight: 400;
+}
+
 .articleIndividualP {
   padding: 5px 0px;
   font-family: sans-serif;

@@ -11,7 +11,9 @@ function toggleMenu() {
 }
 
 function menuDisplayBlock() {
-  console.log(window.innerWidth)
+  if(window.innerWidth > 900) {
+    mainNav.style.display = "block" 
+  }
 }
 hamburger.addEventListener('click', toggleMenu)
 document.body.addEventListener('resize', menuDisplayBlock(e))

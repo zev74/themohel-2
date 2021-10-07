@@ -12,19 +12,19 @@ function toggleMenu() {
 
 const menuDisplayBlock = () => {
 
-  let maxQuery = window.matchMedia('(max-width: 900px)')
-  // let minQuery = window.matchMedia('(min-width: 899px)')
+  // let maxQuery = window.matchMedia('(max-width: 900px)')
+  // // let minQuery = window.matchMedia('(min-width: 899px)')
 
-  console.log('hi')
-  if(maxQuery.matches) {
-    mainNav.style.display = "flex";
-    mainNav.style.alignItems = "center";
-    mainNav.style.justifyContent = "center";
-  }
-  else {
-    mainNav.style.alignItems = "center";
-    mainNav.style.justifyContent = "center";
-  }
+  // console.log('hi')
+  // if(maxQuery.matches) {
+  //   mainNav.style.display = "flex";
+  //   mainNav.style.alignItems = "center";
+  //   mainNav.style.justifyContent = "center";
+  // }
+  // else {
+  //   mainNav.style.alignItems = "center";
+  //   mainNav.style.justifyContent = "center";
+  // }
 
   // if(window.innerWidth > 900) {
   //   mainNav.style.display = "flex" 
@@ -33,5 +33,5 @@ const menuDisplayBlock = () => {
 }
 
 hamburger.addEventListener('click', toggleMenu)
-window.addEventListener('resize', menuDisplayBlock)
+// window.addEventListener('resize', menuDisplayBlock)
 

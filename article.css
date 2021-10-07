@@ -16,19 +16,21 @@
 }
 
 .articleIndividualHeading {
-  padding: 15px 0px;
+  padding: 10px 0px;
   font-size: 28px;
   font-weight: 700;
 }
 
 .articleIndividualMidHeader {
-  padding: 0px 0px;
+  font-family: helvetica;
+  padding: 0px 0px 0px 0px;
+  margin-bottom: 2px;
   font-size: 21px;
   font-weight: 500;
 }
 
 .articleIndividualP {
-  padding: 5px 0px;
+  padding: 0px 0px;
   font-family: sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -51,12 +53,12 @@
   .articleIndividualDiv {
     margin: 5px;
     max-width: 98%;
-    padding: 60px 5%;
+    padding: 20px 5%;
   }
 
   .articleIndividualDiv:hover {
     max-width: 98%;
-    padding: 60px 5%;
+    padding: 20px 5%;
   }
 
   .articleIndividualHeading {

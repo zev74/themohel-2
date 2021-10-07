@@ -10,7 +10,7 @@ function toggleMenu() {
     mainNav.style.display = "none"
 }
 
-function menuDisplayBlock() {
+menuDisplayBlock = () => {
   if(window.innerWidth > 900) {
     mainNav.style.display = "block" 
     console.log(window.innerWidth)

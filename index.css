@@ -181,7 +181,7 @@ h1 {
   border-radius: 9px;
   max-width: 100%;
   max-height: 95%;
-  padding: 0px 0;
+  padding: 6px 0;
 }
 
 .contentWords {
@@ -329,6 +329,7 @@ h1 {
   .articleHeading {
     font-weight: 600;
     font-size: 1.2em;
+    padding: 5px 0px;
   }
 
   .mobileFooter {

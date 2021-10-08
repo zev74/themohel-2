@@ -80,4 +80,8 @@
     margin: 20px 5px;
     min-height: 100px;
   }
+
+  .feelFree {
+    font-weight: 400;
+  }
 }

@@ -196,7 +196,7 @@ h1 {
 }
 
 .contentSectionRow {
-  margin: 0px 5%;
+  margin: 0px 8%;
   display: flex;
   justify-content: center;
   max-width: 1200px;
@@ -309,7 +309,7 @@ h1 {
   .contentSectionRow {
     flex-direction: column;
     align-items: center;
-    padding: 0px 1px 8px 1px;
+    padding: 0px 2% 8px 2%;
     width: 100%;
   }
 

@@ -313,6 +313,10 @@ h1 {
     width: 100%;
   }
 
+  .contentWords {
+    font-size: 14px;
+  }
+
   .contentSectionRow:nth-child(even) {
     flex-direction: column;
     flex-direction: column-reverse;

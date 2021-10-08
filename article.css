@@ -52,12 +52,12 @@
 @media only screen and (max-width: 900px) {
   .articleIndividualDiv {
     margin: 5px;
-    max-width: 98%;
+    max-width: 96%;
     padding: 26px 5% 52px 5%;
   }
 
   .articleIndividualDiv:hover {
-    max-width: 98%;
+    max-width: 96%;
     padding: 26px 5% 52px 5%;
   }
 

@@ -15,10 +15,10 @@
 }
 
 .wordsActual {
-  font-family: Lora;
+  font-family: helvetica;
   letter-spacing: 1px;
   font-size: 15px;
-  font-weight: 400;
+  font-weight: 500;
   color: rgb(29, 29, 29);
   padding: 0px 0px 0px 75px;
 }

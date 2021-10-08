@@ -411,6 +411,7 @@ h1 {
     max-height: 200px;
     max-width: 1000px;
     padding: 5px 0px;
+    box-shadow: 4px 5px 4px -3px rgba(26, 26, 145, 0.2);
   }
 
   .navLink {

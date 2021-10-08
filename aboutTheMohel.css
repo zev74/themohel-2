@@ -64,8 +64,8 @@
     width: 95%;
     border-radius: 12px;
     height: 100%;
-    align-items: center;
-    justify-content: center;
+    margin: auto;
+    padding: 15px;
   }
 
   .imageofmohel {

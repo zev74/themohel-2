@@ -6,6 +6,7 @@
   justify-content: center;
   align-items: center;
   background-color: rgb(233, 233, 233);
+  margin: 210px 0px;
 }
 
 .imageofmohel {
@@ -49,7 +50,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 165px 0px;
 }
 
 @media only screen and (max-width: 1100px) {
@@ -64,6 +64,7 @@
     width: 95%;
     border-radius: 12px;
     height: 100%;
+    padding: 35px 0px;
   }
 
   .imageofmohel {
@@ -92,6 +93,5 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 35px 0px 35px 0px;
   }
 }

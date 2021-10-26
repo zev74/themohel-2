@@ -179,9 +179,10 @@ h1 {
 
 .tagLine {
   color: rgb(231, 231, 231);
-  font-size: 22px;
+  font-size: 18px;
   font-family: Lora;
   font-weight: 400;
+  font-style: italic;
 }
 
 .cleanLink {

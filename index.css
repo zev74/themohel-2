@@ -308,6 +308,10 @@ h1 {
     border-bottom: 0px solid white;
   }
 
+  .tagline {
+    Margin: 0px;
+  }
+
   .contentSectionRow {
     flex-direction: column;
     align-items: center;

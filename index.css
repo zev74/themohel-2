@@ -305,6 +305,7 @@ h1 {
     font-weight: 400;
     border-bottom: 1.4px solid rgb(245, 245, 245);
     padding: 0px 5% 0px 5%;
+    border-bottom: 0px solid white;
   }
 
   .contentSectionRow {

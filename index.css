@@ -301,11 +301,15 @@ h1 {
 
   .mainHeading {
     color: rgb(245, 245, 245);
-    font-size: 36px;
+    font-size: 40px;
     font-family: Lora;
     font-weight: 400;
-    border-bottom: 1.4px solid rgb(245, 245, 245);
-    padding: 0px 3% 0px 3%;
+    border-bottom: 0px solid rgb(245, 245, 245);
+    padding: 0px 5% 0px 5%;
+  }
+
+  .tagline {
+    Margin: 0px;
   }
 
   .contentSectionRow {
@@ -436,7 +440,7 @@ h1 {
   }
 
   .mainSection {
-    background-position: 30% 5%;
+    background-position: 86% 10%;
   }
 
   /* label input:checked ~ .mainNav {

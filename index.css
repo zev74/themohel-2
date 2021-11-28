@@ -108,6 +108,7 @@ h1 {
 
 .navLinksGroup {
   display: flex;
+  transition: all 2s ease-in-out;
 }
 
 .back {
@@ -410,6 +411,7 @@ h1 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    transition: all 2s ease-in-out;
   }
 
   .mobileNav {

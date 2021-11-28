@@ -265,6 +265,10 @@ h1 {
   max-width: 48%;
 } */
 
+.homeAboveWords {
+  height: 36%;
+}
+
 .readMore {
   background-color: rgb(24, 24, 24);
   border: 1.4px solid rgb(24, 24, 24);

@@ -54,6 +54,10 @@ h1 {
   transition: all 2s ease-in-out;
 }
 
+#mainNav {
+  transition: all 2s ease-in-out;
+}
+
 /* in order that menu shouldnt brake there are set styles for when mobile sets to display none */
 .mainNavMoClosed {
   display: block;
@@ -435,6 +439,10 @@ h1 {
     font-size: 21px;
     font-weight: 400;
     color: rgb(19, 19, 19);
+    transition: all 2s ease-in-out;
+  }
+
+  #mainNav {
     transition: all 2s ease-in-out;
   }
 

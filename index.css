@@ -117,6 +117,10 @@ h1 {
   transition: all 2s ease-in-out;
 }
 
+.homeAboveWords {
+  height: 20%;
+}
+
 .back {
   background-color: black;
 }
@@ -153,8 +157,24 @@ h1 {
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.438);
   background: url('images/mohelfather.jpeg');
   background-size: cover;
-  height: 90vh;
+  height: 70vh;
   width: 100%;
+}
+
+#heading {
+  color: rgb(23, 23, 23);
+  font-size: 60px;
+  font-family: Lora;
+  font-weight: 500;
+  border-bottom: 1.4px solid rgb(23, 23, 23);
+  padding: 0px 8% 0px 8%;
+}
+
+.articleHeading {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 2em;
+  padding: 5px 0px;
 }
 
 .mainSectionContent {
@@ -232,6 +252,9 @@ h1 {
 
 .contentWords {
   padding: 5px 0;
+  font-family: Lora;
+  letter-spacing: 1px;
+  font-weight: 500;
 }
 
 .mobileContentImage {
@@ -330,7 +353,10 @@ h1 {
   }
 
   .contentWords {
-    font-size: 14px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Lora;
+    letter-spacing: 1px;
   }
 
   .contentSectionRow:nth-child(even) {
@@ -381,8 +407,9 @@ h1 {
   }
 
   .articleHeading {
+    font-family: Roboto;
     font-weight: 600;
-    font-size: 1.2em;
+    font-size: 1.4em;
     padding: 5px 0px;
   }
 
@@ -445,6 +472,15 @@ h1 {
 
   #mainNav {
     transition: all 2s ease-in-out;
+  }
+
+  #heading {
+    color: rgb(23, 23, 23);
+    font-size: 30px;
+    font-family: Lora;
+    font-weight: 500;
+    border-bottom: 1.4px solid rgb(23, 23, 23);
+    padding: 0px 8% 0px 8%;
   }
 
   .navListItem {

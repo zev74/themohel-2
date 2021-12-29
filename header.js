@@ -40,8 +40,8 @@ class Header extends HTMLElement {
                         The Bris </a>
                 </li>
                 <li class="navListItem">
-                <a class="navLink" href="https://zev74.github.io/themohel-2/testimonials.html"> Testimonials
-                </a>
+                     <a class="navLink" href="https://zev74.github.io/themohel-2/testimonials.html"> Testimonials
+                     </a>
                 </li>
                 <li class="navListItem"> <a class="navLink"
                         href="https://zev74.github.io/themohel-2/contact.html"> Contact </a>

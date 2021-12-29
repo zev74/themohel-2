@@ -32,6 +32,7 @@
 .testimonialOuterContainer {
     width: 50%;
     border-radius: 44px;
+    background-color: rgb(255, 255, 216);
     padding: 60px;
     box-shadow: rgba(149, 157, 165, 0.6) 0px 8px 24px;
     transition-duration: 900ms;

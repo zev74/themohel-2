@@ -1,7 +1,5 @@
 class Header extends HTMLElement {
   connectedCallback() {
-
-    
     this.innerHTML = ` <div> 
     
     <nav class="mobileNav">
@@ -41,6 +39,10 @@ class Header extends HTMLElement {
                     <a class="navLink" href="https://zev74.github.io/themohel-2/aboutTheBris.html"> About
                         The Bris </a>
                 </li>
+                <li class="navListItem">
+                <a class="navLink" href="https://zev74.github.io/themohel-2/testimonials.html"> Testimonials
+                </a>
+                </li>
                 <li class="navListItem"> <a class="navLink"
                         href="https://zev74.github.io/themohel-2/contact.html"> Contact </a>
                 </li>
@@ -50,10 +52,8 @@ class Header extends HTMLElement {
 
 
 
-        </div> `
-        
-    }
+        </div> `;
+  }
 }
 
-
-customElements.define('the-header', Header)
+customElements.define("the-header", Header);
